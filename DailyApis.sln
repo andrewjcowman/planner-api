@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherAPI", "WeatherAPI\WeatherAPI.csproj", "{98201ADC-9056-40D8-BA0E-BC9F7BCE3601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketApi", "MarketApi\MarketApi.csproj", "{A412465E-8F32-4754-BFFA-38CE6CF8194C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterApi", "WaterApi\WaterApi.csproj", "{8A2E8290-5191-46A4-A1FC-135DE9906027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98201ADC-9056-40D8-BA0E-BC9F7BCE3601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98201ADC-9056-40D8-BA0E-BC9F7BCE3601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98201ADC-9056-40D8-BA0E-BC9F7BCE3601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98201ADC-9056-40D8-BA0E-BC9F7BCE3601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A412465E-8F32-4754-BFFA-38CE6CF8194C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A412465E-8F32-4754-BFFA-38CE6CF8194C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A412465E-8F32-4754-BFFA-38CE6CF8194C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A412465E-8F32-4754-BFFA-38CE6CF8194C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A2E8290-5191-46A4-A1FC-135DE9906027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2E8290-5191-46A4-A1FC-135DE9906027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2E8290-5191-46A4-A1FC-135DE9906027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2E8290-5191-46A4-A1FC-135DE9906027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7CFE8B4-2737-4128-915E-91FFEBB1042D}
+	EndGlobalSection
+EndGlobal
